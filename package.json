@@ -1,6 +1,7 @@
 {
   "name": "avro-bn",
   "version": "0.0.0",
+  "repository": {"url": "https://github.com/jahir9991/avro-bn"},
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
